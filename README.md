@@ -11,7 +11,7 @@ To get up and running in WebVR, follow these steps:
 <li>Make sure StereoCamera.cs is attached to the parent node of the prefab
 <li>Go to File > Build Settings and change your Platform to WebGL - Leave Development Build unchecked
 <li>Go to Edit > Project Settings > Player, then under the Resolution and Presentation section, select WebVR as your WebGL template
-<li>In the same Project Settings under Publisher Settings section, make sure your WebGL Memory Size is set to a minimum of 512MB to avoid out of memory errors
+<li>In the same Project Settings under Publishing Settings section, make sure your WebGL Memory Size is set to a minimum of 512MB to avoid out of memory errors
 <li>Depending on the complexity of your game, you may want to set it to 1024MB
 <li>Build to WebGL and give it a shot in Firefox Nightly! 
 </ul>
