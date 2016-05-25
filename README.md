@@ -15,3 +15,5 @@ To get up and running in WebVR, follow these steps:
 <li>Depending on the complexity of your game, you may want to set it to 1024MB. This causes an array allocation error in the current Chromium build, but is fine in Firefox for more complex games
 <li>Build to WebGL and give it a shot in Firefox Nightly or Chromium! 
 </ul>
+
+**This template was created using an original code drop from GitHub user gtk2k. You can find the original project, with updates from the Mozilla team to bring it up to WebVR 1.0 standards, here: https://github.com/gtk2k/Unity-WebVR-Assets**
